@@ -24,7 +24,7 @@ while True:
                 lm_list.append(lm)
 
              #Code goes here   
-
+                finge_tips=[8,12,16,20]
 
 
             mp_draw.draw_landmarks(img, hand_landmark,
